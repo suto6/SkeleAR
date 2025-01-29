@@ -32,8 +32,8 @@ SkeleAR is an innovative AR-powered application designed to make learning human 
 </div>
 
 
-## 🎥 Demo Video
-[![Watch the Demo](Video link will be given soon)
+## 🎥 Demo Video  
+[![Watch the Demo](https://youtube.com/shorts/BcvJbpVmjLo?si=rxI7IPcBF1A0N5tL)](https://youtube.com/shorts/BcvJbpVmjLo?si=rxI7IPcBF1A0N5tL)  
 
 ## 📲 Installation & Usage
 1. **Download & Install** – Get the APK (for Android) or build for iOS.
