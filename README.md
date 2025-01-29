@@ -24,12 +24,10 @@ SkeleAR is an innovative AR-powered application designed to make learning human 
   <img src="SkeleAR%20images/skeleAR1%20(4).jpeg" alt="Skeleton Model" width="45%">
 </div>
 
-<div align="center">
-  <img src="SkeleAR%20images/skeleAR1%20(1).jpeg" alt="Skeleton Model" width="45%">
-  <img src="SkeleAR%20images/skeleAR1%20(2).jpeg" alt="Skeleton Model" width="45%">
-</div>
+## Skeleton
 
 <div align="center">
+  <img src="SkeleAR%20images/skeleAR1%20(1).jpeg" alt="Skeleton Model" width="45%">
   <img src="SkeleAR%20images/skeleAR1%20(3).jpeg" alt="Skeleton Model" width="45%">
 </div>
 
