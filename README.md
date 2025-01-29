@@ -40,5 +40,3 @@ SkeleAR is an innovative AR-powered application designed to make learning human 
 2. **Open the App** – Launch SkeleAR on your AR-supported device.
 3. **Interact & Learn** – Tap on bones, view descriptions, and listen to audio.
 
-
-*Made with ❤️ for interactive learning!* 🚀
