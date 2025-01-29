@@ -18,7 +18,7 @@ SkeleAR is an innovative AR-powered application designed to make learning human 
 - **Lean Touch** (for intuitive controls)
 
 ## 📸 Screenshots
-![Skeleton Model]("SkeleAR images\skeleAR1 (1).jpeg")
+![Skeleton Model](SkeleAR images/skeleAR1 (1).jpeg)
 
 
 ## 🎥 Demo Video
